@@ -1,0 +1,12 @@
+name: tradePlugin
+version: 1.0.0
+main: io.github.jhhan611.trade.TradePlugin
+api-version: 1.16
+author: Jhun (https://github.com/jhhan611)
+commands:
+  trade:
+    description: Send a trade request to a user.
+  tradeaccept:
+    description: Accept trade request.
+  tradedecline:
+    description: Decline trade request.
